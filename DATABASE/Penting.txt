@@ -1,0 +1,14 @@
+1. Nilai MB :
+Di inputkan admin pada halaman PENGETAHUAN
+
+2. Nilai MD :
+Diinputkan user saat konsultasi dengan pilihan berikut :
+
+Nilai MD : 1     SANGAT YAKIN
+Nilai MD : 0.8  YAKIN
+Nilai MD : 0.6  CUKUP YAKIN
+Nilai MD : 0.4  SEDIKIT YAKIN
+Nilai MD : 0.2  KURANG YAKIN
+Nilai MD : 0      TIDAK YAKIN
+
+Untuk jelasnya silahkan lihat peritungan manual dan tes di program
