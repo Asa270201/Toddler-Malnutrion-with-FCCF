@@ -4,6 +4,16 @@
 Program ini dibuat untuk membantu **diagnosa dini malnutrisi pada balita** dengan memanfaatkan metode **Forward Chaining** dan **Certainty Factor (CF)**.  
 Aplikasi ini menerima input berupa **gejala-gejala klinis** yang dialami balita, kemudian sistem akan melakukan penalaran untuk menentukan kemungkinan jenis malnutrisi beserta tingkat kepastiannya.
 
+# 🎥 Demo Video
+
+<p align="center">
+  <a href="https://youtu.be/X6Tq2vxbrXE" target="_blank">
+    <img src="https://i9.ytimg.com/vi/X6Tq2vxbrXE/mq2.jpg?sqp=CLSo3skG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgTChFMA8=&rs=AOn4CLCUD7h4QTlPVbWF1dEmE0QglaWOeg" alt="Demo Video" width="600">
+  </a>
+</p>
+
+---
+
 ## 🎯 Tujuan
 - Membantu tenaga kesehatan atau orang tua dalam mengenali tanda-tanda malnutrisi pada balita.
 - Memberikan hasil diagnosa berbasis **sistem pakar** yang lebih terstruktur.
